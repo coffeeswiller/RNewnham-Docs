@@ -11,4 +11,4 @@ Technical Writing
 Creative Writing - Tabletop Roleplaying Games
 - IK_SinkingFeeling.pdf
 - IKRPG_Scoundrels_Excerpt.pdf
-- IK_BSG.pdf
+- IK_BSG_Excerpt.pdf
