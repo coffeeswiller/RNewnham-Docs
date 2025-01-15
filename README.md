@@ -4,6 +4,7 @@ PR & Journalistic Writing
 - RNewnham_MABR.pdf
 - RNewnham_CordesProfile.pdf
 - RNewnham_SchaefferProfile.pdf
+- Dog Products Industry 2024.pdf
 
 Technical Writing
 - RNewnham_Technical.pdf
