@@ -7,6 +7,7 @@ PR & Journalistic Writing
 - Dog Products Industry 2024.pdf
 - RNewnham_PressRelease.pdf
 - RNewnham_MediaRelations_Placed.pdf
+- Dog Products Industry 2024.pdf
 
 Technical Writing
 - RNewnham_Technical.pdf
